@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">androidprojectpemula</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="food_detail">detail makanan</string>
+    <string name="buy">Beli Rp. %1$s</string>
+    <string name="share">Share</string>
+    <string name="rating">%1$.1f / 5.0</string>
+    <string name="calorie">%1$d kkal</string>
+    <string name="title">Masakan Padang dan Sunda</string>
+    <string name="description_title">Deskripsi</string>
+    <string name="description">%1$s</string>
+    <string name="calorie_title">Kalori</string>
+    <string name="buy_now">Beli Sekarang Rp. %1$s</string>
+    <string name="rating_title">Rating</string>
+    <string name="name">Iqbal Alfikri</string>
+    <string name="email">iqbalalfikri12@gmail.com</string>
+    <string name="profile">Profil Saya</string>
+    <string name="profile_page">Profile</string>
+</resources>
